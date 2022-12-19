@@ -1,0 +1,15 @@
+C:\Users\micro\source\repos\perfect-number-project-new\perfect-number-project-new\bin\Debug\net6.0\perfect-number-project-new.exe
+C:\Users\micro\source\repos\perfect-number-project-new\perfect-number-project-new\bin\Debug\net6.0\perfect-number-project-new.deps.json
+C:\Users\micro\source\repos\perfect-number-project-new\perfect-number-project-new\bin\Debug\net6.0\perfect-number-project-new.runtimeconfig.json
+C:\Users\micro\source\repos\perfect-number-project-new\perfect-number-project-new\bin\Debug\net6.0\perfect-number-project-new.dll
+C:\Users\micro\source\repos\perfect-number-project-new\perfect-number-project-new\bin\Debug\net6.0\perfect-number-project-new.pdb
+C:\Users\micro\source\repos\perfect-number-project-new\perfect-number-project-new\obj\Debug\net6.0\perfect-number-project-new.csproj.AssemblyReference.cache
+C:\Users\micro\source\repos\perfect-number-project-new\perfect-number-project-new\obj\Debug\net6.0\perfect-number-project-new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micro\source\repos\perfect-number-project-new\perfect-number-project-new\obj\Debug\net6.0\perfect-number-project-new.AssemblyInfoInputs.cache
+C:\Users\micro\source\repos\perfect-number-project-new\perfect-number-project-new\obj\Debug\net6.0\perfect-number-project-new.AssemblyInfo.cs
+C:\Users\micro\source\repos\perfect-number-project-new\perfect-number-project-new\obj\Debug\net6.0\perfect-number-project-new.csproj.CoreCompileInputs.cache
+C:\Users\micro\source\repos\perfect-number-project-new\perfect-number-project-new\obj\Debug\net6.0\perfect-number-project-new.dll
+C:\Users\micro\source\repos\perfect-number-project-new\perfect-number-project-new\obj\Debug\net6.0\refint\perfect-number-project-new.dll
+C:\Users\micro\source\repos\perfect-number-project-new\perfect-number-project-new\obj\Debug\net6.0\perfect-number-project-new.pdb
+C:\Users\micro\source\repos\perfect-number-project-new\perfect-number-project-new\obj\Debug\net6.0\perfect-number-project-new.genruntimeconfig.cache
+C:\Users\micro\source\repos\perfect-number-project-new\perfect-number-project-new\obj\Debug\net6.0\ref\perfect-number-project-new.dll
